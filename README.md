@@ -1,6 +1,8 @@
-# Hello! I'm Jason Darel 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c82377ae-0c03-42f7-93ae-7cf84236f099" alt="starsss (1)" width="500">
+</div>
 
-
+<h1 align="center">Hello! I'm Jason Darel 👋</h1>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jdarel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-darel-528b13247/) 
@@ -15,5 +17,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jasondarel&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasondarel&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=jasondarel&icon=0&color=11)](https://visitcount.itsvg.in)
