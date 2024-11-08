@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">Hello! I'm Jason Darel 👋</h1>
+<p align="center">Undergraduate Student at BINUS University specializing in Software Engineering.</p>
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jdarel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-darel-528b13247/) 
