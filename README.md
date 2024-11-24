@@ -5,7 +5,12 @@
 <h1 align="center">Hello! I'm Jason Darel 👋</h1>
 <p align="center"><a href="https://jasondarel.vercel.app">My Website</p>
 <p align="center">Undergraduate Student at BINUS University specializing in Software Engineering.</p>
-<p align="center">Fullstack Developer at PT. Anabatic Technologies Tbk. placed under KPSG.</p>
+<p align="center">
+  Fullstack Developer at 
+  <a href="https://www.anabatic.com/">PT. Anabatic Technologies Tbk.</a> 
+  placed under 
+  <a href="https://kpsg.com/?gad_source=1&gclid=Cj0KCQiAuou6BhDhARIsAIfgrn6wO_HMrUbxsNAtd-vJFhr510pEvj9zL3zmXR-RVp_jWwl18FpdFGMaApheEALw_wcB">KPSG.</a>
+</p>
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jdarel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-darel-528b13247/) 
