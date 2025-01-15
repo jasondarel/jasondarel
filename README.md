@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c82377ae-0c03-42f7-93ae-7cf84236f099" alt="starsss (1)" width="500">
+  <img src="" alt="starsss (1)" width="500">
 </div>
 
 <h1 align="center">Hello! I'm Jason Darel 👋</h1>
