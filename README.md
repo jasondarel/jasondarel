@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="starsss (1)" width="500">
+  <img src="" alt="" width="500">
 </div>
 
 <h1 align="center">Hello! I'm Jason Darel 👋</h1>
