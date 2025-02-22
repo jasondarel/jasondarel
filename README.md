@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello! I'm Jason Darel 👋</h1>
 <p align="center"><a href="https://jasondarel.vercel.app">My Website</p>
-<p align="center">Undergraduate Student at BINUS University specializing in Software Engineering.</p>
+<p align="center">Undergraduate Student at BINUS University specializing in Software Engineering</p>
 <p align="center">
   Fullstack Developer Intern at 
   <a href="https://www.anabatic.com/">PT. Anabatic Technologies Tbk.</a> 
