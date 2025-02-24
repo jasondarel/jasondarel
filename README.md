@@ -9,7 +9,7 @@
   Fullstack Developer Intern at 
   <a href="https://www.anabatic.com/">PT. Anabatic Technologies Tbk.</a> 
   placed under 
-  <a href="https://kpsg.com/?gad_source=1&gclid=Cj0KCQiAuou6BhDhARIsAIfgrn6wO_HMrUbxsNAtd-vJFhr510pEvj9zL3zmXR-RVp_jWwl18FpdFGMaApheEALw_wcB">KPSG.</a>
+  <a href="https://kpsg.com/?gad_source=1&gclid=Cj0KCQiAuou6BhDhARIsAIfgrn6wO_HMrUbxsNAtd-vJFhr510pEvj9zL3zmXR-RVp_jWwl18FpdFGMaApheEALw_wcB">KPSG</a>
 </p>
 
 ## 🌐 Connect with Me:
