@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_nm6j1ghB7C1qze3hdo1_500.gif" width="2000px">
-</div>
+
 
 <h1 align="center">Hello! I'm Jason Darel 👋</h1>
 <p align="center"><a href="https://jasondarel.vercel.app">My Website</p>
