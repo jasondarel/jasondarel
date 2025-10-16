@@ -43,6 +43,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://midtrans.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/id6lAOk8E4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753204642065" alt="midtrans" width="40" height="40"/> </a>
 
 ## 💻 Additional Tech I've Used:
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
