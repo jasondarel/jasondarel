@@ -18,6 +18,7 @@
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="48"/></a>
 <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="48"/></a>
 <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vuejs" width="48"/></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/></a>
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/></a>
 
