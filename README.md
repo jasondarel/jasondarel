@@ -31,6 +31,7 @@
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48"/></a>
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongo" width="48"/></a>
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="48"/></a>
 
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48"/></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
